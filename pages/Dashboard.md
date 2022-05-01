@@ -1,0 +1,4 @@
+- ## Todo
+	- {{query Later}}
+- ## Doing
+	- {{query NOW}}
