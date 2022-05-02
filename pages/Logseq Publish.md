@@ -9,6 +9,7 @@
 	- 最后，还可以自定义自己购买的域名
 - 详细设置
 	- GitHub 新建仓库
+	  collapsed:: true
 		- ![](https://kidpic.oss-cn-beijing.aliyuncs.com/kaimini/20220502143852.png)
 		- ![](https://kidpic.oss-cn-beijing.aliyuncs.com/kaimini/20220502144014.png)
 		- 起个名字就行，其他的全部默认
