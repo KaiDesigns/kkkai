@@ -1,1 +1,52 @@
--
+- 先说下没有解决的问题 🤯
+	- GitHub Actions 这块没有解决，因为不懂代码 🤔。也就是没有办法自动部署网站，需要通过自己重新 Publish Graph 来生成网站。
+	- 也没有太大影响，一天也就需要重新发布一次，
+- 大概的思路
+	- 新建 GitHub 仓库，然后通过 Desktop 来同步推送本地的 Logseq 文件夹到 GitHub
+		- 本地的 Logseq 文件夹，需要把 Publish All Pages 打开，并且需要导出为 Public Pages
+		- 这样就完成了基础文件的创建
+	- 然后，通过 Vercel 来托管 GitHub 的仓库，并生成网站
+	- 最后，还可以自定义自己购买的域名
+- 详细设置
+	- GitHub 新建仓库
+		- ![](https://kidpic.oss-cn-beijing.aliyuncs.com/kaimini/20220502143852.png)
+		- ![](https://kidpic.oss-cn-beijing.aliyuncs.com/kaimini/20220502144014.png)
+		- 起个名字就行，其他的全部默认
+	- 通过 Desktop 来把 GitHub 仓库克隆到本地
+	  collapsed:: true
+		- ![](https://kidpic.oss-cn-beijing.aliyuncs.com/kaimini/20220502144247.png)
+		- ![](https://kidpic.oss-cn-beijing.aliyuncs.com/kaimini/20220502144335.png)
+		-
+	- 用 Logseq 打开克隆到本地的文件夹，并设置发布所有页面
+	  collapsed:: true
+		- ![](https://kidpic.oss-cn-beijing.aliyuncs.com/kaimini/20220502144642.png)
+		- ![](https://kidpic.oss-cn-beijing.aliyuncs.com/kaimini/20220502144758.png)
+		- 在设置打开 All pages publish when publish
+		- ![](https://kidpic.oss-cn-beijing.aliyuncs.com/kaimini/20220502144955.png)
+		- ![](https://kidpic.oss-cn-beijing.aliyuncs.com/kaimini/20220502145056.png)
+		- 并 Export publish pages，不用选文件夹就在 Logseq 根目录就好。这时候会生成一些 Logseq 的一些设置文件。
+	- 将 Logseq 文件全部推送到 GitHub 上面
+	  collapsed:: true
+		- ![](https://kidpic.oss-cn-beijing.aliyuncs.com/kaimini/20220502145832.png)
+		- ![](https://kidpic.oss-cn-beijing.aliyuncs.com/kaimini/20220502145518.png)
+		- 回到 GitHub 网站，就可以看到已经同步到仓库了
+		- ![](https://kidpic.oss-cn-beijing.aliyuncs.com/kaimini/20220502145614.png)
+		-
+	- 通过 [Vercel](https://vercel.com/) 发布为可访问的网站
+	  collapsed:: true
+		- 导入在 GitHub 创建的仓库
+		- ![](https://kidpic.oss-cn-beijing.aliyuncs.com/kaimini/20220502150225.png)
+		- 起个名字，直接部署；等待完成部署就可以了
+		- ![](https://kidpic.oss-cn-beijing.aliyuncs.com/kaimini/20220502150352.png)
+		- ✅ 完成，然后就可以访问了
+		- 其他的功能可以自己研究，比如自定义域名啥的
+		- ![](https://kidpic.oss-cn-beijing.aliyuncs.com/kaimini/20220502150517.png)
+		- ![](https://kidpic.oss-cn-beijing.aliyuncs.com/kaimini/20220502150647.png)
+		- ![](https://kidpic.oss-cn-beijing.aliyuncs.com/kaimini/20220502150743.png)
+- 相关链接：
+	- [🔗 简悦 + Logseq + Github Page 无代码全自动化知识管理发布方案](https://zhuanlan.zhihu.com/p/467192292)
+	- [🔗 桌面应用程序发布教程](https://docs.logseq.com/#/page/publishing%20(desktop%20app%20only))
+	- [🔗 创建 GitHub Pages 站点](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+	- 🔗 [Logseq Publish](https://github.com/pengx17/logseq-publish)
+	- [🔗 Single Page Apps for GitHub Pages](https://github.com/rafgraph/spa-github-pages)
+	- [🔗 GitHub Pages Deploy Action](https://github.com/JamesIves/github-pages-deploy-action)
