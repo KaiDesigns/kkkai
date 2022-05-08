@@ -1,0 +1,25 @@
+- KANO 模型是1980年代由东京理工大学教授狩野纪昭(Noriaki Kano)发明的==对用户需求分类和优先排序的有用工具==，以分析用户需求对用户满意的影响为基础，体现了产品性能和用户满意之间的非线性关系。
+- ==卡诺理论化了客户对于满意度的感知随着时间的推移而变化。随着时间的推移，今天引发愉悦的功能将成为所有客户的期望和要求。==
+- ![](https://media.heptabase.com/v1/images/9fba581c-06ea-48a3-9182-9f9c9aab0b0a/8d5bf18a-2fd3-46da-a4ed-2ab3bb8adb1d/image.png)
+- ## 需求影响满意度因素的五个类型
+- **基本型需求**
+	- 又称必备型需求，对于客户来说这些需求是必须满足的，理所当然的；
+	- ==对于基本型需求，即便超过了其期望值也不会有更多的好感，但是若有一点疏忽，则客户满意度将一落千丈。==
+	- ![](https://media.heptabase.com/v1/images/9fba581c-06ea-48a3-9182-9f9c9aab0b0a/96d896a3-bc94-4b46-bd2e-c7aaa2f2e2a1/image.png)
+- **期望型需求**
+	- 又称意愿型需求，指客户的满意状况与需求的满足程度成比例关系的需求；
+	- 对于此类需求若得到满足，客户的满意度会显著增加，所以也叫用户需求的==痒处==；
+	- ==这是处于成长期的需求，客户、竞争对手和企业自身都关注的需求，也是体现竞争能力的需求；==
+	- ![](https://media.heptabase.com/v1/images/9fba581c-06ea-48a3-9182-9f9c9aab0b0a/c181c060-ccf2-4db5-a6a3-9f2790e2cefe/image.png)
+- **魅力型需求**
+	- 又称兴奋型需求，指不会被顾客过分期望的需求；
+	- 企业提供给客户一些完全出乎意料的产品属性或服务行为，使客户产生==惊喜==，客户就会表现的非常满意，从而提升客户的认可和忠诚度；
+	- ![](https://media.heptabase.com/v1/images/9fba581c-06ea-48a3-9182-9f9c9aab0b0a/f6ca1cff-2679-4fac-b968-f3ba5c9b8342/image.png)
+- **无差异型需求**
+	- 无论提供与否，对用户体验无影响；
+	- ==无感==
+	- ![](https://media.heptabase.com/v1/images/9fba581c-06ea-48a3-9182-9f9c9aab0b0a/865e2d13-09d3-4736-b342-e1b600c5c10d/image.png)
+- **反向型需求**
+	- 又称逆向型需求，指引起强烈==不满==的质量特性和导致低水平满意的质量特性；
+	- ![](https://media.heptabase.com/v1/images/9fba581c-06ea-48a3-9182-9f9c9aab0b0a/fd33e1fa-99a8-4a99-8a0d-fd074cbbea62/image.png)
+- 链接：[🔗  Choosing the Right Features with Kano Model](https://uxdesign.cc/choosing-the-right-features-with-kano-model-cc0274b6a83)
