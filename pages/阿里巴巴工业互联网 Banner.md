@@ -3,7 +3,7 @@ tags: #Blender
 ---
 
 - 原图
-	- ![](https://kidpic.oss-cn-beijing.aliyuncs.com/kaimini/20220504174318.png)
+	- ![](https://kidpic.oss-cn-beijing.aliyuncs.com/kaimini/20220504174318.png){:height 164, :width 747}
 - NOW 临摹阿里工业互联网 Banner
   id:: 62724af5-3013-4c23-8b62-4b23318d3dd0
   :LOGBOOK:
