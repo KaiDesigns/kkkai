@@ -1,0 +1,5 @@
+- [[Logseq 资源汇总]]
+	- [英文论坛](https://discuss.logseq.com/)
+	- [中文论坛](https://cn.logseq.com/)
+	- [awesome-logseq](https://github.com/logseq/awesome-logseq)
+-
