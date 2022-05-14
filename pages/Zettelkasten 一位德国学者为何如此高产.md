@@ -1,7 +1,7 @@
 - ![](https://kidpic.oss-cn-beijing.aliyuncs.com/kaimini/20220424150129.png){:height 251, :width 790}
 - > “我并不是一个人思考所有事情。其中大部分发生在我的 Zettelkasten 中。Zettelkasten 方法很大程度上解释了我的生产力”
 - 什么是 [[Zettelkasten]]？
-	- 卢曼自己的描述是第二记忆、反刍动物、对话伙伴、化粪池……
+	- [[尼克拉斯·卢曼]] 自己的描述是第二记忆、反刍动物、对话伙伴、化粪池……
 	- 其实从词意上就是卡片盒，slip box。卢曼的卡片盒是一件由四层木质抽屉制成的家具。当然重点并不是这件家具长什么样子，而是如何使用及一套知识管理的方法。
 	- ![](https://kidpic.oss-cn-beijing.aliyuncs.com/kaimini/20220512170437.png)
 - 其他笔记系统存在的问题？
