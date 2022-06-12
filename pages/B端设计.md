@@ -1,4 +1,5 @@
 - 🐶  🐶
+	- ==信息化建设需要依托于管理模型，如果一个组织对其管理问题不提出管理模型去解决，那么即使采购或针对性开发信息化系统也是无法解决其根本问题。==
 	- 国内B端卖的是产品吗？卖的是人情世故
 	- 数字化的尽头是 Excel
-		- ![](https://kidpic.oss-cn-beijing.aliyuncs.com/kaimini/20220526113636.png)
+		- ![](https://kidpic.oss-cn-beijing.aliyuncs.com/kaimini/20220526113636.png){:height 452, :width 701}
